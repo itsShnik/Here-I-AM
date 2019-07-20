@@ -6,12 +6,12 @@ This web application can be setup using Nebeans/Eclipse IDE, prefer Netbeans(ver
 
 Requirements:
 
-'''
+```
 - An IDE for Java
 - A server host preferably Apache Tomcat
 - mySql database
 - Desire to make it ;)
-'''
+```
 
 # Images
 The Login Screen
